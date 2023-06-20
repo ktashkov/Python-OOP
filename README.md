@@ -1,2 +1,2 @@
-# Python-OOP
+# Python-OOP exams
 SoftUni Python OOP
